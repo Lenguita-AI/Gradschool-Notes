@@ -1,0 +1,5 @@
+---
+aliases:
+  - GH
+  - Git Hub
+---
